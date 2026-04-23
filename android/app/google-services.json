@@ -1,26 +1,51 @@
 {
   "project_info": {
-    "project_number": "270103178157",
-    "project_id": "dompetku-2d66c",
-    "storage_bucket": "dompetku-2d66c.firebasestorage.app"
+    "project_number": "868810906217",
+    "project_id": "dompetku-88476",
+    "storage_bucket": "dompetku-88476.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:270103178157:android:ebd64feb785ab8dcf58f24",
+        "mobilesdk_app_id": "1:868810906217:android:f05bb705b1052195d160f8",
         "android_client_info": {
           "package_name": "com.example.dompetku"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "868810906217-1t6tehrnmqo999shinu180qrpnlaffdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dompetku",
+            "certificate_hash": "11f10d05d8c9c4561f78bce91279bdf728776915"
+          }
+        },
+        {
+          "client_id": "868810906217-ialqpk80karg2ues5iguhgfbu0bdbgga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHRaziVzGtzMR2qBdI2gtdv0dlt6_pbjg"
+          "current_key": "AIzaSyDswhM3OPbcRPO5HwK-dx5bGIE84qQbSaE"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868810906217-ialqpk80karg2ues5iguhgfbu0bdbgga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868810906217-6d36cekv6jdvmkg9hf78rmtkcuunke0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dompetku"
+              }
+            }
+          ]
         }
       }
     }

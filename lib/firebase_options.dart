@@ -41,48 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAq2wVzopoN8_A02_hzkM5wDq6vuvZEhU4',
-    appId: '1:270103178157:web:3986e438382b19f0f58f24',
-    messagingSenderId: '270103178157',
-    projectId: 'dompetku-2d66c',
-    authDomain: 'dompetku-2d66c.firebaseapp.com',
-    storageBucket: 'dompetku-2d66c.firebasestorage.app',
-    measurementId: 'G-0CZW2GPK2D',
+    apiKey: 'AIzaSyDcuqc-LwaQFPej9jiIBqiqVB2DAwrVy3Q',
+    appId: '1:868810906217:web:cf50c434d816e6cfd160f8',
+    messagingSenderId: '868810906217',
+    projectId: 'dompetku-88476',
+    authDomain: 'dompetku-88476.firebaseapp.com',
+    storageBucket: 'dompetku-88476.firebasestorage.app',
+    measurementId: 'G-KC0MZ3BZ5C',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBHRaziVzGtzMR2qBdI2gtdv0dlt6_pbjg',
-    appId: '1:270103178157:android:ebd64feb785ab8dcf58f24',
-    messagingSenderId: '270103178157',
-    projectId: 'dompetku-2d66c',
-    storageBucket: 'dompetku-2d66c.firebasestorage.app',
+    apiKey: 'AIzaSyDswhM3OPbcRPO5HwK-dx5bGIE84qQbSaE',
+    appId: '1:868810906217:android:f05bb705b1052195d160f8',
+    messagingSenderId: '868810906217',
+    projectId: 'dompetku-88476',
+    storageBucket: 'dompetku-88476.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDUX7DoRECKBbBLsiCQGOe5sP73couSGOU',
-    appId: '1:270103178157:ios:1ef1bb062db88be4f58f24',
-    messagingSenderId: '270103178157',
-    projectId: 'dompetku-2d66c',
-    storageBucket: 'dompetku-2d66c.firebasestorage.app',
+    apiKey: 'AIzaSyBJVbf__2UjQ9DIMTlGM-9N4UFX-fGbBn4',
+    appId: '1:868810906217:ios:ad0e455aa0fe5c93d160f8',
+    messagingSenderId: '868810906217',
+    projectId: 'dompetku-88476',
+    storageBucket: 'dompetku-88476.firebasestorage.app',
     iosBundleId: 'com.example.dompetku',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDUX7DoRECKBbBLsiCQGOe5sP73couSGOU',
-    appId: '1:270103178157:ios:1ef1bb062db88be4f58f24',
-    messagingSenderId: '270103178157',
-    projectId: 'dompetku-2d66c',
-    storageBucket: 'dompetku-2d66c.firebasestorage.app',
+    apiKey: 'AIzaSyBJVbf__2UjQ9DIMTlGM-9N4UFX-fGbBn4',
+    appId: '1:868810906217:ios:ad0e455aa0fe5c93d160f8',
+    messagingSenderId: '868810906217',
+    projectId: 'dompetku-88476',
+    storageBucket: 'dompetku-88476.firebasestorage.app',
     iosBundleId: 'com.example.dompetku',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAq2wVzopoN8_A02_hzkM5wDq6vuvZEhU4',
-    appId: '1:270103178157:web:8e0d2082a4d86f28f58f24',
-    messagingSenderId: '270103178157',
-    projectId: 'dompetku-2d66c',
-    authDomain: 'dompetku-2d66c.firebaseapp.com',
-    storageBucket: 'dompetku-2d66c.firebasestorage.app',
-    measurementId: 'G-7G8VKVVPFF',
+    apiKey: 'AIzaSyDcuqc-LwaQFPej9jiIBqiqVB2DAwrVy3Q',
+    appId: '1:868810906217:web:df24e41c6a77524bd160f8',
+    messagingSenderId: '868810906217',
+    projectId: 'dompetku-88476',
+    authDomain: 'dompetku-88476.firebaseapp.com',
+    storageBucket: 'dompetku-88476.firebasestorage.app',
+    measurementId: 'G-56L78F9BF2',
   );
+
 }

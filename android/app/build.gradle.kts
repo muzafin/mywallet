@@ -19,13 +19,12 @@ android {
     // ===================================================================
 
     compileOptions {
-        // Mengubah ke Java 8 lebih direkomendasikan untuk kompatibilitas luas
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = "1.8" // Menyesuaikan dengan compileOptions
+        jvmTarget = "17"
     }
 
     defaultConfig {
